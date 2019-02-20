@@ -6,6 +6,9 @@ h1 {
   color: khaki;
   text-align: center;
   }
+h1:hover{
+  color: pink;
+}
 
 h2 {
   font-family: Helvetica;

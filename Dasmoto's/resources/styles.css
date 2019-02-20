@@ -6,28 +6,52 @@ h1 {
   color: khaki;
   text-align: center;
   }
-
+  h1:hover
+{
+ color: pink;
+}
 h2 {
   font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: white;
 }
-
 .blue {
   font-family: Helvetica;
   font-weight: bold;
   color: blue;
 }
+.a{
+   font-family: Helvetica;
+  font-weight: bold;
+  color: red;}
+.a:hover
+{
+  color:purple;
+}
+
 
 .brushes {
   background-color: mediumspringgreen;
+  width: 150px;
+  text-align: center;
+  border-radius: 20px;
+
 }
+
 
 .frames {
   background-color: lightcoral;
+  width: 150px;
+  text-align: center;
+  border-radius: 20px;
 }
 
 .paint {
   background-color: skyblue;
+  width: 150px;
+  text-align: center;
+  border-radius: 20px;
 }
+
+
